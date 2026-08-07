@@ -83,30 +83,9 @@ A solução está sendo construída seguindo uma arquitetura em camadas, prioriz
 
 Fluxo simplificado da aplicação:
 
-```text
-Frontend (React)
+<img width="350" height="600" alt="architecture-flow" src="https://github.com/user-attachments/assets/7c316456-07e6-4743-969c-ea1cfa500964" />
 
-        ↓
-
-REST API
-
-        ↓
-
-Spring Boot
-
-        ↓
-
-Camada de Serviços
-
-        ↓
-
-Repositórios
-
-        ↓
-
-Banco de Dados
-```
-
+###
 A documentação completa da arquitetura encontra-se em `docs/ARCHITECTURE.md`.
 
 ---
