@@ -50,5 +50,5 @@ O projeto foi concebido para responder continuamente a três perguntas:
 
 ### Fluxo de Desenvolvimento
 
-```text
-Perfil ➔ Competências ➔ Objetivos ➔ Plano de Desenvolvimento ➔ Ações ➔ Evidências ➔ Feedback ➔ Nova evolução
+<img width="3056" height="140" alt="idp-flow" src="https://github.com/user-attachments/assets/722575c2-0af6-4084-9909-45ecf0e13510" />
+
